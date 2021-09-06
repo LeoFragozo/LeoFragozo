@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Fragozo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Ruby on Rails developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Looking for a job oportunity]
 - 🌱 I’m currently learning **Ruby and Ruby On Rails**
 
 - 📫 How to reach me **lqfragozo at gmail**
